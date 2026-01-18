@@ -1,5 +1,7 @@
 # **Diabetes Prediction Project - Capstone Project**
 
+![People Image v4](https://github.com/user-attachments/assets/ce3ab396-568a-414d-8e31-a9c9a2649b3a)
+
 ## **Analysis to understand the best predictors of Diabetes**
 
 ## **Project Overview**
@@ -183,3 +185,4 @@ The Code Institute course materials for the course "Data Analysis with Artificia
 The following GutHub File Structure Visualizer was used. <https://r3cla.github.io/HubTree/>
 
 All files were created and uploaded to GitHub
+
